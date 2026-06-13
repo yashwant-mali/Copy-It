@@ -139,11 +139,13 @@ export default function TodoPage() {
         </section>
       </main>
 
+{/*
       <Topbar
         title="Todo list manager"
         description="Keep an independent todo list inside the same app. Tasks save locally in your browser."
         highlights={["Local persistence", "Edit tasks", "Quick copy"]}
       />
+*/}
 
       {toast ? <div className="toast">{toast}</div> : null}
     </div>
