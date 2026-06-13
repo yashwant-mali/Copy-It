@@ -139,7 +139,8 @@ export default function CopyPage() {
         </section>
       </main>
 
- /*    <Topbar
+ {/*    
+<Topbar
         title="Save links and formatted text"
         description="Add links, emails, notes, or formatted content with full spacing preserved."
         highlights={[
@@ -147,7 +148,8 @@ export default function CopyPage() {
           "Preserves formatting",
           "Fast copy action",
         ]}
-      />*/
+      />
+*/}
 
       {toast ? <div className="toast">{toast}</div> : null}
     </div>
