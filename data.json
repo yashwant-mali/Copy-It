@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "id": "1781416735268",
+      "title": "email",
+      "type": "text",
+      "link": "",
+      "content": "\nHello Mam/Sir,\n\nI hope this message finds you well.\n\nMy name is Yashwant Ramesh Mali, and I’m a Frontend Developer with around 4 years of experience in building responsive and dynamic web applications. My skill set includes React.js, Node.js, Mongodb, Next.js, Redux, Contact API, Redux Toolkit, JavaScript, HTML, CSS, NextJS, Material UI, Webpack, SEO Optimization, Lighthouse, Profiler, Node.js, Express  and GitHub.\nIf there are any suitable openings at your company, I would be grateful for the opportunity to be considered. I’ve attached my resume for your kind review and would be happy to provide any additional information if needed.\n\nThank you for your time and consideration.\n\nBest regards,\nYashwant Mali\n+91-8698922567\nLinkedIn- https://www.linkedin.com/in/yashwantmali\n",
+      "color": "blue",
+      "updatedAt": 1781416735268
+    },
+    {
+      "id": "1781416298818",
+      "title": "cover letter",
+      "type": "text",
+      "link": "",
+      "content": "Dear Hiring Manager,\n\nI am a Frontend Engineer with 4 years of experience building high-performance React applications at Infosys, working on enterprise platforms for clients including Home Depot and Gap.\n\nIn that time I reduced page load times by 40% (LCP 4.2s → <2.5s), improved Lighthouse scores to 90+, cut production UI defects by 30%, and maintained 80%+ test coverage. I also led a component architecture migration that eliminated 25% of duplicate UI code and sped up new page delivery by 30–35%.\n\nI work primarily with React, Redux, Next.js, Tailwind CSS, Jest, and Node.js, and I hold Microsoft Azure certifications in AI and Cloud Fundamentals.\n\nI would love to bring this experience to your team. Thank you for your time — I look forward to connecting.\n\nSincerely,\nYashwant Mali,\nyashwantmali555@gmail.com,\n +91 8698922567",
+      "color": "blue",
+      "updatedAt": 1781416298817
+    }
+  ],
+  "todos": []
+}
